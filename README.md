@@ -8,8 +8,11 @@ Este repositório contém todos os materiais e recursos necessários para acompa
 O repositório contém:
 
 1- Slides de apresentação: os slides que foram usados para apresentar os conceitos e exemplos práticos durante o workshop.
+
 2- Roteiro com os códigos: estrutura do código HTML e de CSS que mostram como criar uma página HTML básica, adicionar estilos CSS e ajustar a aparência dos elementos.
+
 3- Arquivos para construção do projeto: imagens, icones e links.
+
 3- Recurso extra: cheat sheet de HTML 5.
 
 Os alunos podem navegar por este repositório, fazer o download dos arquivos e experimentar o código dos roteiros. 
